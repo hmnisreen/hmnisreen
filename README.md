@@ -23,7 +23,7 @@
 - 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
-- 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
+- 🥅 2024 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
 - 📫 How to reach me : Email : hmnisreen@gmail.com / Phone : +212 657 480 659 <br>
 
 
